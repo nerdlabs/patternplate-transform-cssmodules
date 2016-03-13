@@ -1,6 +1,6 @@
 {
   "name": "patternplate-transform-cssmodules",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "patternplate transform creating css modules",
   "main": "distribution/index.js",
   "files": [
