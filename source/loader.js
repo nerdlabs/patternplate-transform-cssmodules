@@ -1,6 +1,5 @@
 import Core from 'css-modules-loader-core';
 
-
 export default function createLoaderClass(file) {
 	return class Loader {
 		constructor(root, plugins) {

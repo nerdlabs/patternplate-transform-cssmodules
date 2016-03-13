@@ -3,7 +3,6 @@ import postcss from 'postcss';
 import modules from 'postcss-modules';
 import createLoaderClass from './loader';
 
-
 export default () => {
 	return async file => {
 		const processor = postcss([
